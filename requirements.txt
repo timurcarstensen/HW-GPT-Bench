@@ -9,5 +9,5 @@ xarray
 tensorboard
 tensorboardX
 lightgbm
-sckikit-learn
+scikit-learn
 transformers

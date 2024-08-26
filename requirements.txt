@@ -1,4 +1,10 @@
 autogluon
+autogluon.common
+autogluon.core
+autogluon.features
+autogluon.multimodal
+autogluon.tabular
+autogluon.timeseries
 torch
 torchvision
 torchmetrics
@@ -11,3 +17,4 @@ tensorboardX
 lightgbm
 scikit-learn
 transformers
+syne-tune
